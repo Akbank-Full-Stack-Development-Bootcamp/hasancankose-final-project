@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.7rem 2rem;
+  z-index: 1;
+  width: 100%;
+  border-bottom: solid 1px greenyellow;
+  opacity: 0.9;
+  margin-bottom: 1rem;
+  background-color: rgba(248, 248, 248, 0.1);
+}
+
+.navbar h2 {
+  color: #81d742;
+}

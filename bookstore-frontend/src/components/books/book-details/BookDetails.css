@@ -1,0 +1,12 @@
+.book-details-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.details-image {
+  width: 70%;
+}
+
+.item {
+  padding-bottom: 20px;
+}
